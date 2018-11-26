@@ -1,5 +1,5 @@
 jobs:
-- name: php-test
+- name: c7_php
   type: runSh
   steps:
     - TASK:
