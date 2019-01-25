@@ -16,3 +16,4 @@ build:
    - composer --version  
    - phpunit --version
    - php --rf ldap_connect
+   - php --rf imagettftext 
